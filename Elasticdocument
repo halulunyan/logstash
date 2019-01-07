@@ -1,0 +1,12 @@
+</s></s></s></s></s></s></s></s>{
+    "_id": "0001",
+    "@timestamp": "2018-10-01T12:10:15.341Z",
+    "machineName": "A0001",
+    "message": "処理が正常に完了しました",
+    "executionTime": 16,
+    "tags": ["success", "execution"],
+    "additionalInfo": {
+        "place": "tokyo",
+        "priority": 0
+    }
+}
