@@ -1,0 +1,7 @@
+POST test/doc
+{
+  "field1": "test message2",
+  "field2": "another message2",
+  "field3": "456",
+  "field4": 456
+}
