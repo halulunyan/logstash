@@ -1,0 +1,4 @@
+PUT test/doc/1
+{
+  "field1": "modified message"
+}
